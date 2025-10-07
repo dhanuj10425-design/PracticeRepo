@@ -1,0 +1,9 @@
+{
+	"name": "ADFImportARMTemplate",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec36a47f-3348-407e-b0ea-39b8964cae20",
+		"tenantId": "a2df900e-5098-4bbe-b73e-2200b0db989a"
+	}
+}
